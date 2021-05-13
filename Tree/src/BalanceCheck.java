@@ -111,8 +111,7 @@ class GfG {
 //User function Template for Java
 
 
-*/
-/* A binary tree node class
+ A binary tree node class
 class Node
 {
 	int data;
@@ -123,7 +122,7 @@ class Node
 		data = d;
 		left = right = null;
 	}
-} *//*
+} 
 
 
 class Tree
