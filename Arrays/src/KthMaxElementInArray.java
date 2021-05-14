@@ -1,3 +1,4 @@
+/*
 import com.sun.source.doctree.SeeTree;
 
 import java.util.*;
@@ -18,8 +19,11 @@ class Solution{
 
         Integer[] iar= set.toArray(new Integer[]{});
         return iar[k-1];
-       /* Object[] a = set.toArray();
+       */
+/* Object[] a = set.toArray();
         int x = (int) a[k-1];
-        return x;*/
+        return x;*//*
+
     }
 }
+*/
