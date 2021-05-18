@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CycallyRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxContigousSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimizeTheHight2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxContigousSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxContigousSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <workItem from="1620904920622" duration="330000" />
       <workItem from="1620980451686" duration="2249000" />
       <workItem from="1621254984326" duration="4458000" />
-      <workItem from="1621319733557" duration="19838000" />
+      <workItem from="1621319733557" duration="22979000" />
     </task>
     <servers />
   </component>
