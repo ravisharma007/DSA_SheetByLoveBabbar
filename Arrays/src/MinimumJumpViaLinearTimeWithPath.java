@@ -1,11 +1,15 @@
+/*
 import java.util.ArrayList;
 
 class Solution{
     static java.util.ArrayList<Integer> list =new java.util.ArrayList<>();
     public static void printPath(java.util.ArrayList<Integer> list)
     {
+        System.out.println("Minimum jump path : ");
         list.forEach(x -> System.out.println(x + " -> "));
+        System.out.println();
     }
+
 
     static int minJumps(int[] arr){
         // your code here
@@ -50,3 +54,4 @@ class Solution{
         return -1;
     }
 }
+*/

@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MinimizeTheHight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeWithoutExtraSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumJumpLinearTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumJumpViaLinearTimeWithPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumJumpsViaDP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxContigousSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxContigousSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimizeTheHight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimizeTheHight2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort012Only.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort012Only.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +104,15 @@
       <workItem from="1620904920622" duration="330000" />
       <workItem from="1620980451686" duration="2249000" />
       <workItem from="1621254984326" duration="4458000" />
-      <workItem from="1621319733557" duration="22979000" />
+      <workItem from="1621319733557" duration="23278000" />
+      <workItem from="1621414875900" duration="3978000" />
+      <workItem from="1621493314786" duration="5092000" />
+      <workItem from="1621579895104" duration="3972000" />
+      <workItem from="1621684129074" duration="614000" />
+      <workItem from="1621684951907" duration="592000" />
+      <workItem from="1621841835770" duration="35000" />
+      <workItem from="1621841909024" duration="4941000" />
+      <workItem from="1621934085598" duration="3560000" />
     </task>
     <servers />
   </component>
