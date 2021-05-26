@@ -1,3 +1,4 @@
+/*
 import java.util.Arrays;
 import java.util.*;
 
@@ -35,11 +36,13 @@ class Solution {
         //After loop the last interval left over in intervals, just add this last one to intervalList.
         intervalList.add(intervalToCompare);
 
-        int [][] resultArray=new int[intervalList.size()][/* 2 */];
+        int [][] resultArray=new int[intervalList.size()][*/
+/* 2 *//*
+];
         for(int i=0; i<intervalList.size();i++)
         {
             resultArray[i]=intervalList.get(i);
         }
         return resultArray;
     }
-}
+}*/
