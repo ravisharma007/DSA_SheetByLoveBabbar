@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextPermutaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,7 +107,8 @@
       <workItem from="1621841835770" duration="35000" />
       <workItem from="1621841909024" duration="4941000" />
       <workItem from="1621934085598" duration="3694000" />
-      <workItem from="1622012178339" duration="2373000" />
+      <workItem from="1622012178339" duration="3456000" />
+      <workItem from="1622097793668" duration="6753000" />
     </task>
     <servers />
   </component>
