@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrays/MergeSortClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InversionCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/MergeSortRecursive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/QuickSortClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/out/production/Sorting/MergeSortClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/out/production/Sorting/MergeSortClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.QuickSortClass">
+  <component name="RunManager" selected="Application.MergeSortClass">
+    <configuration name="MergeSortClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortClass" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinAndMaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinAndMaxInArray" />
       <module name="Arrays" />
@@ -71,20 +77,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestArray" />
-      <module name="Arrays" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortClass" />
         <item itemvalue="Application.QuickSortClass" />
         <item itemvalue="Application.NegativePositive" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MinAndMaxInArray" />
-        <item itemvalue="Application.TestArray" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +125,7 @@
       <workItem from="1622277041203" duration="1197000" />
       <workItem from="1622294379709" duration="222000" />
       <workItem from="1622444706811" duration="623000" />
+      <workItem from="1622532622897" duration="9251000" />
     </task>
     <servers />
   </component>

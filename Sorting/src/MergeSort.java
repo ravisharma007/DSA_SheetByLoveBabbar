@@ -4,7 +4,8 @@ class MergeSortClass
 {
     public static void main(String[] args) {
 //        int [] arr = {2,8,5,3,1,12,4,9,17,13,6};
-        int [] arr = {2,8,5,3,1,12,4};
+//        int [] arr = {2,8,5,3,1,12,4};
+        int [] arr = {5,7,2,2,10,6};
 
         Solution obj=new Solution();
         obj.iterativeMergeSort(arr,arr.length);
