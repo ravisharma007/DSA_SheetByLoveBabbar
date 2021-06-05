@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Arrays/MergeSortClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InversionCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/src/MergeSortRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/QuickSortClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sorting/out/production/Sorting/MergeSortClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/out/production/Sorting/MergeSortClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +115,7 @@
       <workItem from="1622277041203" duration="1197000" />
       <workItem from="1622294379709" duration="222000" />
       <workItem from="1622444706811" duration="623000" />
-      <workItem from="1622532622897" duration="9251000" />
+      <workItem from="1622532622897" duration="9271000" />
     </task>
     <servers />
   </component>
