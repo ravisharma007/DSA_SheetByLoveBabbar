@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="" />
+    <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findAllKeyPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/MergeSortClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InversionCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAAbyCllg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAAbyCllg/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,17 +39,18 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.MergeSortClass">
-    <configuration name="MergeSortClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortClass" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAndMaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinAndMaxInArray" />
+    <configuration name="MergeSortClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortClass" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.MergeSortClass" />
         <item itemvalue="Application.QuickSortClass" />
         <item itemvalue="Application.NegativePositive" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MinAndMaxInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +126,8 @@
       <workItem from="1622294379709" duration="222000" />
       <workItem from="1622444706811" duration="623000" />
       <workItem from="1622532622897" duration="9271000" />
+      <workItem from="1623228806007" duration="7052000" />
+      <workItem from="1623319547682" duration="9767000" />
     </task>
     <servers />
   </component>
@@ -133,5 +145,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Arrays$Driver.ic" NAME="Driver Coverage Results" MODIFIED="1623239755241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
