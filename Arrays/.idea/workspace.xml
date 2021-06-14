@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findAllKeyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialOfLargeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RearrangeFollwedByPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/MergeSortClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InversionCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAAbyCllg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAAbyCllg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +126,9 @@
       <workItem from="1622444706811" duration="623000" />
       <workItem from="1622532622897" duration="9271000" />
       <workItem from="1623228806007" duration="7052000" />
-      <workItem from="1623319547682" duration="9767000" />
+      <workItem from="1623319547682" duration="10086000" />
+      <workItem from="1623404407473" duration="6381000" />
+      <workItem from="1623652887764" duration="4081000" />
     </task>
     <servers />
   </component>
