@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82bc6630-e446-4358-ab11-d7b7e6235bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FactorialOfLargeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RearrangeFollwedByPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestConsecutiveSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxProductSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +15,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1sTjABaYwPoPJuh6Mrxonkp5xSP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +31,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
@@ -76,13 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +131,7 @@
       <workItem from="1623319547682" duration="10086000" />
       <workItem from="1623404407473" duration="6381000" />
       <workItem from="1623652887764" duration="4081000" />
+      <workItem from="1623830908632" duration="2933000" />
     </task>
     <servers />
   </component>
