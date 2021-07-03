@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8c3f5980-87d9-4a8f-9ccd-78e826a87063" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/NegativePositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NegativePositive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrappingRainWater.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="3fbb9e17-be5a-4b8d-9b64-f3fab5fac726" name="Default Changelist" comment="" />
+>>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ukTijcrIvSCh7mQlSoN7T2g1RN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -24,10 +39,35 @@
       <option name="presentableId" value="Default" />
       <updated>1625118413837</updated>
       <workItem from="1625118429511" duration="1055000" />
+=======
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fbb9e17-be5a-4b8d-9b64-f3fab5fac726" name="Default Changelist" comment="" />
+      <created>1625208716185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625208716185</updated>
+      <workItem from="1625208723571" duration="48000" />
+>>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Arrays$Driver.ic" NAME="Driver Coverage Results" MODIFIED="1623239755241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+>>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
 </project>

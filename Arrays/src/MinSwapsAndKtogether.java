@@ -1,3 +1,4 @@
+/*
 import java.util.*;
 
 class Complete{
@@ -36,4 +37,4 @@ class Complete{
         }
         return minBad;
     }
-}
+}*/
