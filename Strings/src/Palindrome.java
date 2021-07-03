@@ -9,4 +9,5 @@ class Solution {
 
         return (s.equals(s2)) ? 1 : 0;
     }
-}*/
+}
+*/
