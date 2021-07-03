@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3f5980-87d9-4a8f-9ccd-78e826a87063" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/NegativePositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NegativePositive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrappingRainWater.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3f5980-87d9-4a8f-9ccd-78e826a87063" name="Default Changelist" comment="" />
+      <created>1625118413837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625118413837</updated>
+      <workItem from="1625118429511" duration="1055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

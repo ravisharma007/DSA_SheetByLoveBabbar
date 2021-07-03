@@ -1,3 +1,4 @@
+/*
 
 class NegativePositive
 {
@@ -37,3 +38,4 @@ class NegativePositive
 
     }
 }
+*/
