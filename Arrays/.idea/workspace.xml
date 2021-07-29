@@ -1,73 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="8c3f5980-87d9-4a8f-9ccd-78e826a87063" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/NegativePositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NegativePositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrappingRainWater.java" afterDir="false" />
+    <list default="true" id="a301005b-ad92-45b1-baf9-0c3f7078655b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JoshTech1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoshTech3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/joshTech2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/EditDistanceMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/EditDistanceRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/EditDistanceTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/KMP_LPS_Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/LCSviaRecursionMemoizationTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/LCSviaTabulationBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/LongestRepeatingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/ParantheseisChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/PrintAllPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/PrintAllSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/RabinKarpAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/SplitBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/WordWrapDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/NegativePositive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/TestArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialOfLargeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialOfLargeNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/out/production/Strings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/out/production/Strings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/src/LCSviaRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/src/LCSviaRecursion.java" afterDir="false" />
     </list>
-=======
-    <list default="true" id="3fbb9e17-be5a-4b8d-9b64-f3fab5fac726" name="Default Changelist" comment="" />
->>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-=======
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ukTijcrIvSCh7mQlSoN7T2g1RN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
->>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
+  <component name="ProjectId" id="1vt6N6PWVfDUAMKh5GkMFiCRMR8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8c3f5980-87d9-4a8f-9ccd-78e826a87063" name="Default Changelist" comment="" />
-      <created>1625118413837</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1625118413837</updated>
-      <workItem from="1625118429511" duration="1055000" />
-=======
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3fbb9e17-be5a-4b8d-9b64-f3fab5fac726" name="Default Changelist" comment="" />
-      <created>1625208716185</created>
+      <changelist id="a301005b-ad92-45b1-baf9-0c3f7078655b" name="Default Changelist" comment="" />
+      <created>1627306554717</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1625208716185</updated>
-      <workItem from="1625208723571" duration="48000" />
->>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
+      <updated>1627306554717</updated>
+      <workItem from="1627306560856" duration="8943000" />
+      <workItem from="1627369000984" duration="5413000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
-=======
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="oldMeFiltersMigrated" value="true" />
+  <component name="WindowStateProjectService">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1627381996981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627381996981" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1627381996981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627381996981" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1627381996981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627381996981" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1627381996981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627381996981" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1627317743370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627317743370" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1627317743369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1627317743369" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1627317743369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1627317743369" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1627317743370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1627317743370" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Arrays$Driver.ic" NAME="Driver Coverage Results" MODIFIED="1623239755241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
->>>>>>> 0222b002b988d1b3e6d51845a6d195315401acb8
 </project>
